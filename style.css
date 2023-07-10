@@ -1,0 +1,32 @@
+.my-marg {
+    margin: -3px 7px;
+    margin-left: -8px;
+}
+
+.bg-color {
+    color: darkorange;
+
+}
+
+.hover-name {
+    color: #fff;
+    /* Set the default text color for the anchor tag */
+    transition: color 0.3s ease;
+    /* Smooth transition for the color change */
+}
+
+.hover-name:hover {
+    color: #ffcc00;
+    /* Change the text color on hover */
+    text-decoration: none;
+    /* Remove underline on hover */
+}
+
+.my-line {
+    width: 900px;
+    height: 1.5px;
+    background-color: aqua;
+    margin: 0px 15%;
+    margin-bottom: 17px;
+}
+
